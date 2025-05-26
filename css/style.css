@@ -156,8 +156,9 @@
 
 /*** About ***/
 .about {
-    background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(../img/F413C6A5-A936-4A09-A3B2-13DBD5B71514.png) left center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(../img/fundo.png) left center no-repeat;
     background-size: cover;
+    border-radius: 8px;
 }
 
 .btn-play {
